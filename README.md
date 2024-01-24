@@ -1,6 +1,7 @@
 # win11-compression
 tarコマンドの使えるwindows環境で動作します。  
-windows11ではtarが標準で使えるらしいです。
+windows11ではtarが標準で使えるらしいです。  
+tar.xzに圧縮します。
 
 # baseフォルダ
 baseフォルダには圧縮対象を入れます。  
